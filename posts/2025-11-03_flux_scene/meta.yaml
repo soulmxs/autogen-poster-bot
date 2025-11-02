@@ -1,0 +1,5 @@
+time: "12:00"
+date: "2025-11-03"
+timezone: "Europe/Kyiv"
+targets: ["x"]
+hashtags: ["#AI", "#Flux", "#ComfyUI"]
